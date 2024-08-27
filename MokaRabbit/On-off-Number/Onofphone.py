@@ -1,7 +1,6 @@
 import socket
 import os
 import sys
-import threads
 import time
 import requests
 
