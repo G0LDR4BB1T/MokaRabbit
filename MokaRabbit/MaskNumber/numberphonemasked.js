@@ -1,32 +1,49 @@
-function bypass_iptables() {
+function detect_masked_numberphone() {
+    
 
 }
 
-function bypass_clamAv() {
+function identified_masked_numberphone() {
 
 }
 
-function bypass_sophos() {
+function access_device_of_masked_numberphone() {
 
 }
 
-function bypass_ESET() {
+function access_account_of_masked_numberphone() {
 
 }
 
-function bypass_comodo() {
+function control_devices_of_masked_numberphone() {
 
 }
 
-function access_remote_devices() {
+function access_screen_stream_live_of_numberphone() {
 
 }
 
-function encrypt_files() {
+function encrypt_device_of_masked_numberphone() {
 
 }
 
-function encrypt_sys() {
+function encrypt_devices_of_masked_numberphone(){
+    
+}
+
+function display_first_name_lastname_and_birthday_of_masked_numberphone() {
+
+}
+
+function access_webcam_of_masked_numberphone() {
+
+}
+
+function access_microphone_of_masked_numberphone() {
+
+}
+
+function detect_device_type_of_masked_numberphone() {
 
 }
 
