@@ -36,7 +36,11 @@ function crypt_devices(){
 }
 function access_passwords_and_account(){
 
+
+}
 function detectDatacenterOfSociety(){
 }
 
+function AttackDatacenterOfSociety(){
+  
 }
