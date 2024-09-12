@@ -39,6 +39,15 @@ function access_passwords_and_account(){
 
 }
 function detectDatacenterOfSociety(){
+
+}
+
+function detectSecurityCamera(){
+  
+}
+
+function controle_SecurityCamera(){
+  
 }
 
 function AttackDatacenterOfSociety(){
